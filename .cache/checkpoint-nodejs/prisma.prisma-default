@@ -1,0 +1,23 @@
+{
+  "last_reminder": 1718365999256,
+  "cached_at": 1718347424297,
+  "version": "5.15.0",
+  "cli_path": "",
+  "output": {},
+  "product": "prisma.prisma",
+  "local_timestamp": "2024-06-14T11:53:16Z",
+  "project_hash": "7373303b",
+  "endpoint": "https://checkpoint.prisma.io",
+  "arch": "x64",
+  "os": "linux",
+  "node_version": "v20.11.1",
+  "schema_providers": [],
+  "schema_preview_features": [],
+  "schema_generators_providers": [],
+  "cache_file": "/home/vscode/.cache/checkpoint-nodejs/prisma.prisma-default",
+  "cache_duration": 43200000,
+  "remind_duration": 172800000,
+  "timeout": 5000,
+  "unref": true,
+  "child_path": "/home/vscode/.vscode-remote/extensions/prisma.prisma-5.15.0/node_modules/checkpoint-client/dist/child"
+}

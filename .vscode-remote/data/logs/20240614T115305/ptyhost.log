@@ -1,0 +1,3 @@
+2024-06-14 11:53:07.741 [info] Revived process, old id 79fa1b34eb4b75b05694de1c3dbde5c1-1 -> new id 1
+2024-06-14 11:53:07.741 [info] Revived process, old id 79fa1b34eb4b75b05694de1c3dbde5c1-7 -> new id 2
+2024-06-14 11:53:11.375 [warning] Shell integration cannot be enabled for executable "/bin/sh" and args []

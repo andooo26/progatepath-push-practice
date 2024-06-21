@@ -1,0 +1,27 @@
+2024-06-14 05:13:37.108 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-06-14 05:13:37.108 [info] Activation> Extension version: 0.88.1
+2024-06-14 05:13:39.410 [info] Looking for git repository
+2024-06-14 05:13:39.410 [info] Found 0 repositories during activation
+2024-06-14 05:13:39.410 [info] Git repository found, initializing review manager and pr tree view.
+2024-06-14 05:13:39.415 [info] Registering git provider
+2024-06-14 05:13:39.415 [info] Review+0> Validate state in progress
+2024-06-14 05:13:39.415 [info] Review+0> Validating state...
+2024-06-14 05:13:39.415 [info] Review+1> Validate state in progress
+2024-06-14 05:13:39.415 [info] Review+1> Validating state...
+2024-06-14 05:13:39.415 [info] Review+2> Validate state in progress
+2024-06-14 05:13:39.415 [info] Review+2> Validating state...
+2024-06-14 05:13:39.534 [info] Found GitHub remote for folder /home/vscode/environment
+2024-06-14 05:13:39.535 [info] Found GitHub remote for folder /home/vscode/.oh-my-zsh
+2024-06-14 05:13:39.535 [info] Found GitHub remote for folder /home/vscode/.nodenv
+2024-06-14 05:13:40.122 [info] Trying to use globalState for assignableUsers.
+2024-06-14 05:13:40.457 [info] Trying to use globalState for assignableUsers.
+2024-06-14 05:13:40.472 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-06-14 05:13:40.509 [info] Review+2> No matching pull request metadata found locally for current branch main
+2024-06-14 05:13:40.770 [info] Trying to use globalState for assignableUsers.
+2024-06-14 05:13:40.784 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-06-14 05:13:40.883 [info] Using globalState assignableUsers for 1.
+2024-06-14 05:13:40.932 [info] Using globalState assignableUsers for 1.
+2024-06-14 05:13:41.040 [info] Using globalState assignableUsers for 1.
+2024-06-14 05:13:41.363 [info] Review+2> No matching pull request metadata found on GitHub for current branch main
+2024-06-14 05:13:41.404 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-06-14 05:13:41.820 [info] Review+1> No matching pull request metadata found on GitHub for current branch master

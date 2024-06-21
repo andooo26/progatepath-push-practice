@@ -1,0 +1,30 @@
+2024-06-21 01:16:44.870 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-06-21 01:16:44.870 [info] Activation> Extension version: 0.90.0
+2024-06-21 01:16:46.079 [info] Looking for git repository
+2024-06-21 01:16:46.079 [info] Found 0 repositories during activation
+2024-06-21 01:16:46.079 [info] Git repository found, initializing review manager and pr tree view.
+2024-06-21 01:16:46.083 [info] Registering git provider
+2024-06-21 01:16:46.083 [info] Review+0> Validate state in progress
+2024-06-21 01:16:46.083 [info] Review+0> Validating state...
+2024-06-21 01:16:46.083 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-06-21 01:16:46.083 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-06-21 01:16:46.084 [info] Trying to use globalState for assignableUsers.
+2024-06-21 01:16:46.138 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-06-21 01:16:46.168 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-06-21 01:16:46.276 [info] Using globalState assignableUsers for 0.
+2024-06-21 01:19:53.036 [info] Repository file:///home/vscode/progate_path/self_introduction_branch/self_introduction has been opened
+2024-06-21 01:19:53.036 [info] Review+1> Validate state in progress
+2024-06-21 01:19:53.036 [info] Review+1> Validating state...
+2024-06-21 01:19:53.037 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-06-21 01:19:53.037 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-06-21 01:19:53.037 [info] Trying to use globalState for assignableUsers.
+2024-06-21 01:19:53.082 [info] Review+1> Queuing additional validate state
+2024-06-21 01:19:53.082 [info] Repo state for file:///home/vscode/progate_path/self_introduction_branch/self_introduction changed.
+2024-06-21 01:19:53.082 [info] Repo file:///home/vscode/progate_path/self_introduction_branch/self_introduction has already been setup.
+2024-06-21 01:19:53.220 [info] Using globalState assignableUsers for 0.
+2024-06-21 01:19:53.542 [info] Review+1> Validating state...
+2024-06-21 01:19:53.542 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-06-21 01:19:53.542 [info] No GitHub remotes found for folder /home/vscode/progate_path/self_introduction_branch/self_introduction
+2024-06-21 01:19:53.542 [info] Using in-memory cached assignable users.
+2024-06-21 01:19:53.555 [info] Review+1> No matching pull request metadata found locally for current branch main
+2024-06-21 01:19:53.563 [info] Review+1> No matching pull request metadata found on GitHub for current branch main

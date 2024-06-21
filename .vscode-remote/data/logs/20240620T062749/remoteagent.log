@@ -1,0 +1,92 @@
+2024-06-20 06:27:50.116 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-06-20 06:27:50.116 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-611f9bfce64f25108829dd295f54a6894e87339d","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/611f9bfce64f25108829dd295f54a6894e87339d/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20240620T062749"}
+2024-06-20 06:27:50.116 [info] 
+
+
+
+
+2024-06-20 06:27:50.116 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-06-20 06:27:50.119 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-06-20 06:27:50.121 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2024-06-20 06:27:50.141 [trace] ExtensionManagementService#cleanUp
+2024-06-20 06:27:50.142 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-06-20 06:27:50.149 [info] Extension host agent started.
+2024-06-20 06:27:50.238 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-06-20 06:27:50.275 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-06-20 06:27:50.279 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2024-06-20 06:27:50.280 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-dependency-0.23.2024042600
+2024-06-20 06:27:50.280 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-3.0.10
+2024-06-20 06:27:50.280 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-pack-0.27.2024061402
+2024-06-20 06:27:50.282 [debug] Removing uninstalled extensions: ["github.copilot-1.202.0"]
+2024-06-20 06:27:50.283 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-06-20 06:27:50.287 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-06-20 06:27:50.290 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-06-20 06:27:50.343 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-06-20 06:27:50.563 [trace] Scanned user extensions: 22
+2024-06-20 06:27:50.565 [trace] Deleting uninstalled extension from disk github.copilot /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0
+2024-06-20 06:27:50.569 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-1.202.0
+2024-06-20 06:27:50.570 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-1.202.0.-3ea88130.vsctmp
+2024-06-20 06:27:50.579 [trace] Scanned user extensions: 21
+2024-06-20 06:27:50.662 [trace] [File Watcher (node.js)] [raw] ["rename"] github.copilot-1.202.0.-3ea88130.vsctmp
+2024-06-20 06:27:50.662 [info] Deleted uninstalled extension from disk github.copilot /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0
+2024-06-20 06:27:50.663 [trace] [File Watcher (node.js)] [raw] ["rename"] .obsolete
+2024-06-20 06:27:50.671 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0
+2024-06-20 06:27:50.747 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0
+2024-06-20 06:27:50.763 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0.-3ea88130.vsctmp
+2024-06-20 06:27:50.763 [trace] [File Watcher (node.js)] [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-06-20 06:27:50.839 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/.obsolete
+2024-06-20 06:27:50.839 [trace] [File Watcher (node.js)]  >> normalized [DELETED] /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0.-3ea88130.vsctmp
+2024-06-20 06:27:51.882 [info] [127.0.0.1][44207d6f][ManagementConnection] New connection established.
+2024-06-20 06:27:52.030 [trace] [127.0.0.1][633a409b][ExtensionHostConnection] - startParams language: ja
+2024-06-20 06:27:52.031 [trace] [127.0.0.1][633a409b][ExtensionHostConnection] - startParams env: {}
+2024-06-20 06:27:52.031 [info] [127.0.0.1][633a409b][ExtensionHostConnection] New connection established.
+2024-06-20 06:27:52.057 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-06-20 06:27:52.072 [info] [127.0.0.1][633a409b][ExtensionHostConnection] <654> Launched Extension Host Process.
+2024-06-20 06:27:52.103 [trace] Started scanning system extensions
+2024-06-20 06:27:52.104 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-06-20 06:27:52.108 [trace] Started scanning system extensions
+2024-06-20 06:27:52.108 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-06-20 06:27:52.108 [trace] ExtensionManagementService.updateControlCache
+2024-06-20 06:27:52.109 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-06-20 06:27:52.109 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-06-20 06:27:52.118 [info] Log level changed to info
+2024-06-20 06:28:03.216 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2024-06-20 06:28:03.216 [info] Getting Manifest... dbaeumer.vscode-eslint
+2024-06-20 06:28:03.217 [info] Getting Manifest... github.copilot
+2024-06-20 06:28:03.217 [info] Getting Manifest... github.vscode-pull-request-github
+2024-06-20 06:28:03.217 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2024-06-20 06:28:03.247 [info] Installing extension: github.copilot file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:03.250 [info] Installing extension: ms-ceintl.vscode-language-pack-ja file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:03.251 [info] Installing extension: dbaeumer.vscode-eslint file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:03.254 [info] Installing extension: github.vscode-pull-request-github file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:03.919 [info] Extension is already requested to install ms-ceintl.vscode-language-pack-ja file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:08.853 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-ja: Success. Executed: true. Duration: 3958ms.
+2024-06-20 06:28:08.948 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 4044ms.
+2024-06-20 06:28:09.099 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Executed: true. Duration: 3912ms.
+2024-06-20 06:28:09.194 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Executed: true. Duration: 4135ms.
+2024-06-20 06:28:09.346 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.90.2024061209: ms-ceintl.vscode-language-pack-ja
+2024-06-20 06:28:09.365 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2024-06-20 06:28:09.374 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.90.2024061209
+2024-06-20 06:28:09.388 [info] Renamed to /home/vscode/.vscode-remote/extensions/dbaeumer.vscode-eslint-3.0.10
+2024-06-20 06:28:09.452 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ja-1.89.2024050109
+2024-06-20 06:28:09.533 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2024-06-20 06:28:09.667 [info] Marked extension as uninstalled dbaeumer.vscode-eslint-2.4.4
+2024-06-20 06:28:09.767 [info] Extension installed successfully: dbaeumer.vscode-eslint file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:09.840 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:09.968 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.90.0: github.vscode-pull-request-github
+2024-06-20 06:28:09.988 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.90.0
+2024-06-20 06:28:10.067 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.88.1
+2024-06-20 06:28:10.080 [info] Extension installed successfully: github.vscode-pull-request-github file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:10.265 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-1.204.0: github.copilot
+2024-06-20 06:28:10.281 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-1.204.0
+2024-06-20 06:28:10.347 [info] Marked extension as uninstalled github.copilot-1.203.0
+2024-06-20 06:28:10.364 [info] Extension installed successfully: github.copilot file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:16.608 [info] Downloaded extension to file:///home/vscode/.vscode-remote/extensionsCache/1e971b96-6a59-4099-b036-734486431417
+2024-06-20 06:28:16.610 [info] Installing extension: ms-ceintl.vscode-language-pack-ja file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:28:16.610 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-ja
+2024-06-20 06:28:16.659 [info] Deleted existing extension from disk ms-ceintl.vscode-language-pack-ja /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.90.2024061209
+2024-06-20 06:28:16.726 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.90.2024061209: ms-ceintl.vscode-language-pack-ja
+2024-06-20 06:28:16.744 [info] Renamed to /home/vscode/.vscode-remote/extensions/ms-ceintl.vscode-language-pack-ja-1.90.2024061209
+2024-06-20 06:28:16.799 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2024-06-20 06:28:16.864 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja file:///home/vscode/.vscode-remote/extensions/extensions.json
+2024-06-20 06:32:50.150 [info] New EH opened, aborting shutdown

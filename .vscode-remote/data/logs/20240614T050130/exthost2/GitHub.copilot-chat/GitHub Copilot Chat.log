@@ -1,0 +1,13 @@
+2024-06-14 05:13:37.109 [info] [FetcherService] Using the Helix fetcher.
+2024-06-14 05:13:37.109 [info] [gitExtensionService] Initializing Git extension service.
+2024-06-14 05:13:37.109 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-06-14 05:13:37.109 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-06-14 05:13:37.109 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-06-14 05:13:37.507 [info] [auth] Logged in as andooo26
+2024-06-14 05:13:38.644 [info] [auth] Invalid copilot token: missing token: 403 
+2024-06-14 05:13:38.655 [info] [extension] GitHub Copilot could not connect to server. Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as andooo26."
+2024-06-14 05:13:38.950 [info] [auth] Logged in as andooo26
+2024-06-14 05:13:39.501 [info] [auth] Invalid copilot token: missing token: 403 
+2024-06-14 05:13:39.782 [info] [auth] Logged in as andooo26
+2024-06-14 05:13:40.738 [info] [auth] Invalid copilot token: missing token: 403 
+2024-06-14 05:13:40.738 [info] [RemoteAgents] Failed to load remote slash commands: Error: No access to GitHub Copilot found. You are currently logged in as andooo26.

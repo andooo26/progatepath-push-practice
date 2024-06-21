@@ -1,0 +1,81 @@
+2024-06-14 06:06:12.377 [info] Extension host with pid 565 started
+2024-06-14 06:06:12.458 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/79fa1b34eb4b75b05694de1c3dbde5c1/vscode.lock': Lock acquired.
+2024-06-14 06:06:12.605 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-06-14 06:06:13.158 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-14 06:06:13.159 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-06-14 06:06:13.159 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-06-14 06:06:13.798 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-06-14 06:06:14.047 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-14 06:06:14.048 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-14 06:06:14.914 [info] Eager extensions activated
+2024-06-14 06:06:14.914 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 06:06:14.914 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 06:06:14.915 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 06:06:14.915 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 06:06:14.917 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 06:06:14.917 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 06:06:16.728 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 06:06:18.260 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2024-06-14 06:31:08.633 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-06-14 06:31:08.633 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-14 06:31:25.888 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-06-14 06:42:24.589 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-14 06:42:24.590 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-14 06:43:39.922 [info] ExtensionService#_doActivateExtension pmneo.tsimporter, startup: false, activationEvent: 'onLanguage:typescript'
+2024-06-14 06:43:39.922 [info] ExtensionService#_doActivateExtension Prisma.prisma, startup: false, activationEvent: 'onLanguage:typescript'
+2024-06-14 06:43:39.923 [info] ExtensionService#_doActivateExtension rbbit.typescript-hero, startup: false, activationEvent: 'onLanguage:typescript'
+2024-06-14 06:53:47.818 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-06-14 06:53:47.819 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugResolve:pwa-node'
+2024-06-14 07:16:06.461 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-06-14 07:46:23.176 [info] Extension host terminating: received terminate message from renderer
+2024-06-14 07:46:23.176 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/79fa1b34eb4b75b05694de1c3dbde5c1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-06-14 07:46:23.408 [error] Canceled: Canceled
+    at new A (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:145:50615)
+    at E.U (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:152:6007)
+    at Proxy.z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:152:3091)
+    at h.g (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:199935)
+    at h.executeCommand (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:199373)
+    at I.registerCommand.description (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:198697)
+    at h (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:200474)
+    at h.g (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:199466)
+    at h.executeCommand (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:199373)
+    at Object.executeCommand (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:165:22742)
+    at q2.reset (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.88.1/dist/extension.js:2188:8858)
+    at q2.dispose (/home/vscode/.vscode-remote/extensions/github.vscode-pull-request-github-0.88.1/dist/extension.js:2188:9129)
+    at f (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at u.eb (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:161:9991)
+    at /vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:161:7867
+    at Array.map (<anonymous>)
+    at u.$ (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:161:7854)
+    at u.terminate (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:161:8127)
+    at f.terminate (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:165:1513)
+    at t (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:178:10459)
+    at n.value (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:178:8427)
+    at l.y (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at s.fire (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+    at h.z (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:107:17638)
+    at n.value (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:107:17012)
+    at l.y (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at u.acceptChunk (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:107:12248)
+    at n.value (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:107:11518)
+    at l.y (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+    at l.fire (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+    at n.z (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:175:20477) setContext undefined
+2024-06-14 07:46:24.728 [error] Canceled: Canceled
+    at new A (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:145:50615)
+    at E.U (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:152:6007)
+    at Proxy.z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:152:3091)
+    at h.g (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:199935)
+    at h.executeCommand (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:199373)
+    at I.registerCommand.description (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:198697)
+    at h (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:200474)
+    at h.g (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:199466)
+    at h.executeCommand (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:155:199373)
+    at Object.executeCommand (/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/out/vs/workbench/api/node/extensionHostProcess.js:165:22742)
+    at /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/auth.ts:138:18
+    at new Promise (<anonymous>)
+    at handleAuthenticationError (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/auth.ts:122:12)
+    at attemptAuthentication (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/auth.ts:86:19) setContext undefined
+2024-06-14 07:46:24.768 [info] Extension host with pid 565 exiting with code 0

@@ -1,0 +1,73 @@
+2024-06-16 05:38:31.244 [info] ログ レベル: Info
+2024-06-16 05:38:31.244 [info] Git の検証が検出されました: "git"
+2024-06-16 05:38:31.244 [info] "git" から Git "2.45.1" を使用しています
+2024-06-16 05:38:31.244 [info] > git rev-parse --show-toplevel [977ms]
+2024-06-16 05:38:31.244 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-16 05:38:31.245 [info] > git rev-parse --show-toplevel [10ms]
+2024-06-16 05:38:31.245 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-16 05:38:31.282 [info] > git rev-parse --show-toplevel [21ms]
+2024-06-16 05:38:31.282 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-16 05:38:31.304 [info] > git rev-parse --show-toplevel [10ms]
+2024-06-16 05:38:31.304 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-16 05:44:48.899 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-16 05:44:48.912 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-06-16 05:44:48.927 [info] Open repository: /home/vscode/progate_path/self_introduction_commit/self_introduction
+2024-06-16 05:44:48.944 [info] > git config --get commit.template [2ms]
+2024-06-16 05:44:48.959 [info] No remotes found in the git config file.
+2024-06-16 05:44:48.960 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-06-16 05:44:48.961 [warning] No such branch: main.
+2024-06-16 05:44:48.974 [info] > git status -z -uall [2ms]
+2024-06-16 05:44:49.006 [info] > git config --get commit.template [13ms]
+2024-06-16 05:44:49.007 [info] No remotes found in the git config file.
+2024-06-16 05:44:49.007 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-06-16 05:44:49.007 [warning] No such branch: main.
+2024-06-16 05:44:49.023 [info] > git status -z -uall [4ms]
+2024-06-16 05:44:49.395 [info] > git config --local branch.main.github-pr-owner-number [11ms]
+2024-06-16 05:44:49.395 [warning] git config failed: Failed to execute git
+2024-06-16 05:44:49.408 [info] > git config --local branch.main.remote [3ms]
+2024-06-16 05:44:49.408 [warning] git config failed: Failed to execute git
+2024-06-16 05:44:49.425 [info] > git config --local branch.main.merge [5ms]
+2024-06-16 05:44:49.425 [warning] git config failed: Failed to execute git
+2024-06-16 05:44:49.592 [info] > git check-ignore -v -z --stdin [2ms]
+2024-06-16 05:45:06.699 [info] No remotes found in the git config file.
+2024-06-16 05:45:06.700 [info] > git config --get commit.template [12ms]
+2024-06-16 05:45:06.701 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-06-16 05:45:06.701 [warning] No such branch: main.
+2024-06-16 05:45:06.713 [info] > git status -z -uall [2ms]
+2024-06-16 05:45:11.738 [info] No remotes found in the git config file.
+2024-06-16 05:45:11.739 [info] > git config --get commit.template [11ms]
+2024-06-16 05:45:11.740 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-06-16 05:45:11.753 [info] > git status -z -uall [2ms]
+2024-06-16 05:45:11.767 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-06-16 05:45:11.767 [warning] git config failed: Failed to execute git
+2024-06-16 05:45:11.778 [info] > git config --local branch.main.remote [1ms]
+2024-06-16 05:45:11.779 [warning] git config failed: Failed to execute git
+2024-06-16 05:45:11.790 [info] > git config --local branch.main.merge [2ms]
+2024-06-16 05:45:11.791 [warning] git config failed: Failed to execute git
+2024-06-16 05:45:32.289 [info] > git check-ignore -v -z --stdin [2ms]
+2024-06-16 05:45:33.216 [info] > git show --textconv :src/favorite_food.md [21ms]
+2024-06-16 05:45:33.246 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/src/favorite_food.md [31ms]
+2024-06-16 05:45:33.271 [info] > git cat-file -s f5033617eeed106b96d7206b522114e8323b4198 [6ms]
+2024-06-16 05:45:41.740 [info] > git config --get commit.template [35ms]
+2024-06-16 05:45:41.757 [info] No remotes found in the git config file.
+2024-06-16 05:45:41.763 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-06-16 05:45:41.780 [info] > git status -z -uall [2ms]
+2024-06-16 05:46:20.580 [info] No remotes found in the git config file.
+2024-06-16 05:46:20.581 [info] > git config --get commit.template [15ms]
+2024-06-16 05:46:20.582 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-06-16 05:46:20.595 [info] > git status -z -uall [2ms]
+2024-06-16 05:46:20.680 [info] > git ls-files --stage -- /home/vscode/progate_path/self_introduction_commit/self_introduction/src/favorite_food.md [2ms]
+2024-06-16 05:46:20.691 [info] > git cat-file -s 54d6a16a5fd3cf66e6e81d166982c96d644f5b7e [2ms]
+2024-06-16 05:46:20.801 [info] > git show --textconv :src/favorite_food.md [2ms]
+2024-06-16 05:49:48.945 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-06-16 05:49:48.945 [warning] git config failed: Failed to execute git
+2024-06-16 05:54:48.961 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-06-16 05:54:48.962 [warning] git config failed: Failed to execute git
+2024-06-16 05:59:48.979 [info] > git config --local branch.main.github-pr-owner-number [0ms]
+2024-06-16 05:59:48.979 [warning] git config failed: Failed to execute git
+2024-06-16 06:04:48.993 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-06-16 06:04:48.993 [warning] git config failed: Failed to execute git
+2024-06-16 06:09:49.010 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2024-06-16 06:09:49.010 [warning] git config failed: Failed to execute git
+2024-06-16 06:14:49.025 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2024-06-16 06:14:49.025 [warning] git config failed: Failed to execute git

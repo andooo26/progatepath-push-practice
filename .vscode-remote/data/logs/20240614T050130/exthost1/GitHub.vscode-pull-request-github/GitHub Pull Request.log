@@ -1,0 +1,42 @@
+2024-06-14 05:02:50.829 [warning] /home/vscode/.ssh/config: ENOENT: no such file or directory, open '/home/vscode/.ssh/config'
+2024-06-14 05:02:50.831 [info] Activation> Extension version: 0.88.1
+2024-06-14 05:02:57.507 [info] Looking for git repository
+2024-06-14 05:02:57.507 [info] Found 0 repositories during activation
+2024-06-14 05:02:57.507 [info] Git repository found, initializing review manager and pr tree view.
+2024-06-14 05:02:57.560 [info] Registering git provider
+2024-06-14 05:02:57.570 [info] Review+0> Validate state in progress
+2024-06-14 05:02:57.570 [info] Review+0> Validating state...
+2024-06-14 05:02:57.570 [info] Review+1> Validate state in progress
+2024-06-14 05:02:57.571 [info] Review+1> Validating state...
+2024-06-14 05:02:57.571 [info] Review+2> Validate state in progress
+2024-06-14 05:02:57.571 [info] Review+2> Validating state...
+2024-06-14 05:02:57.907 [info] Found GitHub remote for folder /home/vscode/environment
+2024-06-14 05:02:57.907 [info] Found GitHub remote for folder /home/vscode/.oh-my-zsh
+2024-06-14 05:02:57.916 [info] Found GitHub remote for folder /home/vscode/.nodenv
+2024-06-14 05:02:59.495 [info] Trying to use globalState for assignableUsers.
+2024-06-14 05:03:03.437 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-06-14 05:03:03.559 [info] GlobalState does not exist for assignableUsers.
+2024-06-14 05:03:03.932 [info] Trying to use globalState for assignableUsers.
+2024-06-14 05:03:03.956 [info] Trying to use globalState for assignableUsers.
+2024-06-14 05:03:04.047 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-06-14 05:03:05.238 [info] Review+2> No matching pull request metadata found locally for current branch main
+2024-06-14 05:03:06.458 [info] GlobalState does not exist for assignableUsers.
+2024-06-14 05:03:06.759 [info] GlobalState does not exist for assignableUsers.
+2024-06-14 05:03:06.971 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-06-14 05:03:08.485 [info] Review+2> No matching pull request metadata found on GitHub for current branch main
+2024-06-14 05:03:08.544 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-06-14 05:03:12.946 [info] Repo state for file:///home/vscode/environment changed.
+2024-06-14 05:03:12.946 [info] Repo file:///home/vscode/environment has already been setup.
+2024-06-14 05:13:00.442 [info] Repository file:///home/vscode/.progate/origins/B9TXcM130gZ22p4lM1fo7/vscode_tutorial has been opened
+2024-06-14 05:13:00.442 [info] Review+3> Validate state in progress
+2024-06-14 05:13:00.442 [info] Review+3> Validating state...
+2024-06-14 05:13:00.443 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-06-14 05:13:00.443 [info] No GitHub remotes found for folder /home/vscode/.progate/origins/B9TXcM130gZ22p4lM1fo7/vscode_tutorial
+2024-06-14 05:13:00.473 [info] Review+3> Queuing additional validate state
+2024-06-14 05:13:00.473 [info] Repo state for file:///home/vscode/.progate/origins/B9TXcM130gZ22p4lM1fo7/vscode_tutorial changed.
+2024-06-14 05:13:00.473 [info] Repo file:///home/vscode/.progate/origins/B9TXcM130gZ22p4lM1fo7/vscode_tutorial has already been setup.
+2024-06-14 05:13:01.071 [info] Review+3> Validating state...
+2024-06-14 05:13:01.072 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-06-14 05:13:01.072 [info] No GitHub remotes found for folder /home/vscode/.progate/origins/B9TXcM130gZ22p4lM1fo7/vscode_tutorial
+2024-06-14 05:13:01.083 [info] Review+3> No matching pull request metadata found locally for current branch master
+2024-06-14 05:13:01.092 [info] Review+3> No matching pull request metadata found on GitHub for current branch master

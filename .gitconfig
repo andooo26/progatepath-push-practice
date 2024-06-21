@@ -1,0 +1,7 @@
+[user]
+	name = andooo26
+	email = yota426513@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait

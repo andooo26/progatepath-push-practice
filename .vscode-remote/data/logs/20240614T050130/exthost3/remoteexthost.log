@@ -1,0 +1,73 @@
+2024-06-14 05:14:17.960 [info] Extension host with pid 8780 started
+2024-06-14 05:14:18.008 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/6dd8eaad/vscode.lock': Lock acquired.
+2024-06-14 05:14:18.466 [info] ExtensionService#_doActivateExtension GitHub.codespaces, startup: false, activationEvent: 'onCommand:github.codespaces.activate'
+2024-06-14 05:14:18.467 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-06-14 05:14:18.468 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+2024-06-14 05:14:18.468 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-06-14 05:14:18.468 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-06-14 05:14:18.469 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-06-14 05:14:18.717 [warning] Using default string since no string found in i18n bundle that has the key: Keep Defaults
+2024-06-14 05:14:18.717 [warning] Using default string since no string found in i18n bundle that has the key: Configure Options
+2024-06-14 05:14:18.717 [warning] Using default string since no string found in i18n bundle that has the key: Finish
+2024-06-14 05:14:18.720 [warning] Using default string since no string found in i18n bundle that has the key: Learn More
+2024-06-14 05:14:18.720 [warning] Using default string since no string found in i18n bundle that has the key: Documentation on predefined container definitions
+2024-06-14 05:14:19.471 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-06-14 05:14:19.856 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-06-14 05:14:19.857 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-06-14 05:14:21.139 [info] Eager extensions activated
+2024-06-14 05:14:21.139 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:14:21.140 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:14:21.140 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:14:21.140 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:14:21.140 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:14:21.141 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:14:21.141 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 05:14:26.118 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2024-06-14 05:14:55.448 [error] CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as andooo26.
+    at authShowWarnings (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/auth.ts:156:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at kM.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/auth.ts:186:33)
+    at onDidChangeSessionsHandler (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/session.ts:78:13)
+    at /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/extension.ts:201:9
+2024-06-14 05:14:55.449 [error] CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as andooo26.
+    at authShowWarnings (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/auth.ts:156:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at kM.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/auth.ts:186:33)
+    at onDidChangeSessionsHandler (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/session.ts:78:13)
+    at /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/extension.ts:201:9
+2024-06-14 05:14:55.478 [error] Error: No access to GitHub Copilot found. You are currently logged in as andooo26.
+    at r4e (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:14613)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at aP.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:16353)
+    at aP._resetOrRefreshCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:17066)
+2024-06-14 05:14:55.481 [error] Error: No access to GitHub Copilot found. You are currently logged in as andooo26.
+    at r4e (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:14613)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at aP.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:16353)
+    at aP._resetOrRefreshCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:17066)
+2024-06-14 05:14:55.481 [error] CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as andooo26.
+    at authShowWarnings (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/auth.ts:156:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at kM.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/auth.ts:186:33)
+    at onDidChangeSessionsHandler (/home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/session.ts:78:13)
+    at /home/vscode/.vscode-remote/extensions/github.copilot-1.202.0/extension/src/extension.ts:201:9
+2024-06-14 05:14:55.482 [error] Error: No access to GitHub Copilot found. You are currently logged in as andooo26.
+    at r4e (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:14613)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at aP.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:16353)
+    at Qb.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:925:3650)
+2024-06-14 05:14:55.482 [error] Error: No access to GitHub Copilot found. You are currently logged in as andooo26.
+    at r4e (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:14613)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at aP.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:16353)
+    at Qb.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:925:3650)
+2024-06-14 05:14:55.483 [error] Error: No access to GitHub Copilot found. You are currently logged in as andooo26.
+    at r4e (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:14613)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at aP.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:16353)
+    at Qb.value (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:925:3650)
+2024-06-14 05:14:55.483 [error] Error: No access to GitHub Copilot found. You are currently logged in as andooo26.
+    at r4e (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:14613)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at aP.getCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:16353)
+    at aP._resetOrRefreshCopilotToken (/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1/dist/extension.js:138:17066)

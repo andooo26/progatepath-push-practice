@@ -1,0 +1,10 @@
+2024-06-14 05:14:25.263 [info] [auth] Invalid copilot token: missing token: 403 
+2024-06-14 05:14:25.454 [error] [auth] Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as andooo26."
+2024-06-14 05:14:38.015 [error] [auth] Retrying auth
+2024-06-14 05:14:53.143 [info] [auth] Invalid copilot token: missing token: 403 
+2024-06-14 05:14:53.144 [error] [auth] Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as andooo26."
+2024-06-14 05:14:53.144 [info] [auth] Invalid copilot token: missing token: 403 
+2024-06-14 05:14:53.145 [info] [auth] Invalid copilot token: missing token: 403 
+2024-06-14 05:14:53.484 [info] [auth] Invalid copilot token: missing token: 403 
+2024-06-14 05:14:59.914 [error] [auth] Retrying auth
+2024-06-14 05:15:02.322 [error] [auth] Extension activation failed: "User did not consent to login."

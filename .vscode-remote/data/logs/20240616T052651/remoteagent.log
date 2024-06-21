@@ -1,0 +1,101 @@
+2024-06-16 05:26:51.801 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-06-16 05:26:51.801 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-dc96b837cf6bb4af9cd736aa3af08cf8279f7685","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20240616T052651"}
+2024-06-16 05:26:51.801 [info] 
+
+
+
+
+2024-06-16 05:26:51.801 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-06-16 05:26:51.803 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-06-16 05:26:51.805 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2024-06-16 05:26:51.821 [trace] ExtensionManagementService#cleanUp
+2024-06-16 05:26:51.826 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-06-16 05:26:51.828 [info] Extension host agent started.
+2024-06-16 05:26:51.879 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-06-16 05:26:51.885 [debug] No uninstalled extensions found.
+2024-06-16 05:26:51.896 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-06-16 05:26:51.899 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-3.0.7
+2024-06-16 05:26:51.899 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-toolsai.jupyter-2024.6.2024060601
+2024-06-16 05:26:51.900 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2024-06-16 05:26:51.900 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-debug-0.57.2024041008
+2024-06-16 05:26:51.901 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-06-16 05:26:51.904 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-06-16 05:26:51.908 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-06-16 05:26:52.108 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:52.160 [trace] Scanned user extensions: 21
+2024-06-16 05:26:53.501 [info] [127.0.0.1][916a37fd][ManagementConnection] New connection established.
+2024-06-16 05:26:53.698 [trace] [127.0.0.1][13f304cd][ExtensionHostConnection] - startParams language: ja
+2024-06-16 05:26:53.698 [trace] [127.0.0.1][13f304cd][ExtensionHostConnection] - startParams env: {}
+2024-06-16 05:26:53.699 [info] [127.0.0.1][13f304cd][ExtensionHostConnection] New connection established.
+2024-06-16 05:26:53.708 [trace] Started scanning system extensions
+2024-06-16 05:26:53.709 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-06-16 05:26:53.709 [trace] Started scanning system extensions
+2024-06-16 05:26:53.710 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-06-16 05:26:53.710 [trace] ExtensionManagementService.updateControlCache
+2024-06-16 05:26:53.711 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-06-16 05:26:53.712 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-06-16 05:26:53.713 [info] Log level changed to info
+2024-06-16 05:26:54.240 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:54.284 [info] [127.0.0.1][13f304cd][ExtensionHostConnection] <587> Launched Extension Host Process.
+2024-06-16 05:26:54.457 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:54.830 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:56.359 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:56.642 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:57.514 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:58.026 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:58.698 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:59.369 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:26:59.530 [info] Getting Manifest... github.copilot
+2024-06-16 05:26:59.556 [info] Installing extension: github.copilot
+2024-06-16 05:27:00.303 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:27:00.827 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:27:03.505 [info] Extension signature verification result for github.copilot: Success. Duration: 2995ms.
+2024-06-16 05:27:03.915 [info] Extracted extension to file:///home/vscode/.vscode-remote/extensions/github.copilot-1.203.0: github.copilot
+2024-06-16 05:27:03.944 [info] Renamed to /home/vscode/.vscode-remote/extensions/github.copilot-1.203.0
+2024-06-16 05:27:03.947 [info] Extracting extension completed. github.copilot
+2024-06-16 05:27:03.969 [info] Extension installed successfully: github.copilot
+2024-06-16 05:27:03.976 [info] Marked extension as uninstalled github.copilot-1.202.0
+2024-06-16 05:28:21.627 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:47.382 [info] [127.0.0.1][824ee1dd][ManagementConnection] New connection established.
+2024-06-16 05:28:47.632 [info] [127.0.0.1][4daba0e1][ExtensionHostConnection] New connection established.
+2024-06-16 05:28:47.660 [info] [127.0.0.1][4daba0e1][ExtensionHostConnection] <2265> Launched Extension Host Process.
+2024-06-16 05:28:47.862 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:48.010 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:48.213 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:48.406 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:48.550 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:49.079 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:49.324 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:49.592 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:49.836 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:50.049 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:28:50.335 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:31:51.830 [info] New EH opened, aborting shutdown
+2024-06-16 05:31:56.920 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:33:48.916 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:36:57.355 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:37:09.904 [info] [127.0.0.1][916a37fd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-16 05:37:10.016 [info] [127.0.0.1][13f304cd][ExtensionHostConnection] <587> Extension Host Process exited with code: 0, signal: null.
+2024-06-16 05:38:27.360 [info] [127.0.0.1][3b0957e3][ManagementConnection] New connection established.
+2024-06-16 05:38:27.576 [info] [127.0.0.1][c671132f][ExtensionHostConnection] New connection established.
+2024-06-16 05:38:27.586 [info] [127.0.0.1][c671132f][ExtensionHostConnection] <10650> Launched Extension Host Process.
+2024-06-16 05:38:28.017 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:28.087 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:28.198 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:28.695 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:28.702 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:29.061 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:29.108 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:29.188 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:29.266 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:29.536 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:29.844 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:30.073 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:30.397 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:30.805 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:31.085 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:38:31.619 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:43:28.744 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:48:29.142 [error] [/home/vscode/.vscode-remote/extensions/github.copilot-chat-0.16.1]: Extension is not compatible with Code 1.89.1. Extension requires: ^1.90.0.
+2024-06-16 05:49:45.866 [info] [127.0.0.1][3b0957e3][ManagementConnection] The client has reconnected.
+2024-06-16 05:49:46.074 [info] [127.0.0.1][c671132f][ExtensionHostConnection] The client has reconnected.

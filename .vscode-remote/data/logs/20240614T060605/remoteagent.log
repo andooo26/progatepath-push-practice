@@ -1,0 +1,45 @@
+2024-06-14 06:06:05.506 [trace] Remote configuration data at /home/vscode/.vscode-remote
+2024-06-14 06:06:05.506 [trace] process arguments: {"_":[],"host":"127.0.0.1","port":"0","connection-token-file":"/home/vscode/.vscode-remote/data/Machine/.connection-token-89de5a8d4d6205e5b11647eb6a74844ca23d2573","without-connection-token":false,"disable-websocket-compression":false,"print-startup-performance":false,"print-ip-address":false,"accept-server-license-terms":true,"server-data-dir":"/home/vscode/.vscode-remote","enable-smoke-test-driver":false,"disable-telemetry":false,"disable-workspace-trust":false,"log":["trace"],"force-disable-user-env":true,"enable-sync":false,"use-test-resolver":false,"extensions-download-dir":"/home/vscode/.vscode-remote/extensionsCache","update-extensions":false,"list-extensions":false,"show-versions":false,"force":false,"do-not-sync":false,"pre-release":false,"start-server":true,"enable-remote-auto-shutdown":true,"remote-auto-shutdown-without-delay":false,"use-host-proxy":false,"without-browser-env-var":false,"help":false,"version":false,"user-data-dir":"/home/vscode/.vscode-remote/data","builtin-extensions-dir":"/vscode/bin/linux-x64/89de5a8d4d6205e5b11647eb6a74844ca23d2573/extensions","extensions-dir":"/home/vscode/.vscode-remote/extensions","logsPath":"/home/vscode/.vscode-remote/data/logs/20240614T060605"}
+2024-06-14 06:06:05.506 [info] 
+
+
+
+
+2024-06-14 06:06:05.506 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/data/Machine (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/vscode/.vscode-remote/data/Machine/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-06-14 06:06:05.507 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/data/Machine'
+2024-06-14 06:06:05.509 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/vscode/.vscode-remote/data/Machine/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/vscode/.vscode-remote/data/Machine/settings.json')
+2024-06-14 06:06:05.521 [trace] ExtensionManagementService#cleanUp
+2024-06-14 06:06:05.522 [trace] ExtensionManagementService#removeTempDeleteFolders
+2024-06-14 06:06:05.524 [info] Extension host agent started.
+2024-06-14 06:06:05.594 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-06-14 06:06:05.621 [debug] No uninstalled extensions found.
+2024-06-14 06:06:05.627 [trace] [File Watcher (node.js)] Request to start watching: /home/vscode/.vscode-remote/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-06-14 06:06:05.633 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ms-python.python-2024.9.11641010
+2024-06-14 06:06:05.634 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/ritwickdey.liveserver-5.7.9
+2024-06-14 06:06:05.634 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/dbaeumer.vscode-eslint-3.0.7
+2024-06-14 06:06:05.634 [trace] Deleting from cache /home/vscode/.vscode-remote/extensionsCache/vscjava.vscode-java-dependency-0.23.2024042600
+2024-06-14 06:06:05.640 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions'
+2024-06-14 06:06:05.642 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions","external":"file:///home/vscode/.vscode-remote/extensions","path":"/home/vscode/.vscode-remote/extensions","scheme":"file"}
+2024-06-14 06:06:05.644 [trace] [File Watcher (node.js)] Started watching: '/home/vscode/.vscode-remote/extensions/extensions.json'
+2024-06-14 06:06:05.891 [trace] Scanned user extensions: 21
+2024-06-14 06:06:07.268 [info] [127.0.0.1][44da01f6][ManagementConnection] New connection established.
+2024-06-14 06:06:07.375 [trace] [127.0.0.1][98021d21][ExtensionHostConnection] - startParams language: ja
+2024-06-14 06:06:07.375 [trace] [127.0.0.1][98021d21][ExtensionHostConnection] - startParams env: {}
+2024-06-14 06:06:07.376 [info] [127.0.0.1][98021d21][ExtensionHostConnection] New connection established.
+2024-06-14 06:06:07.479 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-06-14 06:06:07.485 [info] [127.0.0.1][98021d21][ExtensionHostConnection] <565> Launched Extension Host Process.
+2024-06-14 06:06:07.490 [trace] Started scanning system extensions
+2024-06-14 06:06:07.494 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-06-14 06:06:07.496 [trace] Started scanning system extensions
+2024-06-14 06:06:07.498 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-06-14 06:06:07.499 [trace] ExtensionManagementService.updateControlCache
+2024-06-14 06:06:07.499 [trace] resolveShellEnv(): skipped (--force-disable-user-env)
+2024-06-14 06:06:07.500 [trace] Started scanning user extensions {"$mid":1,"fsPath":"/home/vscode/.vscode-remote/extensions/extensions.json","external":"file:///home/vscode/.vscode-remote/extensions/extensions.json","path":"/home/vscode/.vscode-remote/extensions/extensions.json","scheme":"file"}
+2024-06-14 06:06:07.502 [info] Log level changed to info
+2024-06-14 06:11:05.525 [info] New EH opened, aborting shutdown
+2024-06-14 06:26:14.663 [info] [127.0.0.1][44da01f6][ManagementConnection] The client has reconnected.
+2024-06-14 06:26:14.904 [info] [127.0.0.1][98021d21][ExtensionHostConnection] The client has reconnected.
+2024-06-14 07:46:23.184 [info] [127.0.0.1][44da01f6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-06-14 07:46:24.811 [info] [127.0.0.1][98021d21][ExtensionHostConnection] <565> Extension Host Process exited with code: 0, signal: null.
+2024-06-14 07:46:24.812 [info] Last EH closed, waiting before shutting down
+2024-06-14 07:51:24.814 [info] Last EH closed, shutting down

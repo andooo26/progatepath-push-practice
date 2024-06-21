@@ -1,0 +1,9 @@
+2024-06-21 00:52:15.114 [info] [FetcherService] Using the Helix fetcher.
+2024-06-21 00:52:15.114 [info] [gitExtensionService] Initializing Git extension service.
+2024-06-21 00:52:15.114 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-06-21 00:52:15.114 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-06-21 00:52:15.114 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-06-21 00:52:15.408 [info] [auth] GitHub login failed
+2024-06-21 00:52:15.414 [info] [extension] You are not signed in to GitHub. Please sign in to use Copilot.
+2024-06-21 00:52:15.758 [info] [auth] GitHub login failed
+2024-06-21 00:52:15.758 [info] [RemoteAgents] Unable to fetch remote agents because user is not signed in.

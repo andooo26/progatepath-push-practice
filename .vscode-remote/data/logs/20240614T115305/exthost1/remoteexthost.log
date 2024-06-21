@@ -1,0 +1,26 @@
+2024-06-14 11:53:11.508 [info] Extension host with pid 440 started
+2024-06-14 11:53:11.533 [info] Lock '/home/vscode/.vscode-remote/data/User/workspaceStorage/79fa1b34eb4b75b05694de1c3dbde5c1/vscode.lock': Lock acquired.
+2024-06-14 11:53:11.724 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-06-14 11:53:11.725 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-06-14 11:53:11.726 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-14 11:53:11.726 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+2024-06-14 11:53:11.727 [info] ExtensionService#_doActivateExtension pmneo.tsimporter, startup: false, activationEvent: 'onLanguage:typescript'
+2024-06-14 11:53:11.727 [info] ExtensionService#_doActivateExtension Prisma.prisma, startup: false, activationEvent: 'onLanguage:typescript'
+2024-06-14 11:53:11.727 [info] ExtensionService#_doActivateExtension rbbit.typescript-hero, startup: false, activationEvent: 'onLanguage:typescript'
+2024-06-14 11:53:14.937 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-14 11:53:14.937 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-06-14 11:53:14.937 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-06-14 11:53:15.119 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-06-14 11:53:16.104 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-14 11:53:16.104 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-14 11:53:17.186 [info] Eager extensions activated
+2024-06-14 11:53:17.186 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 11:53:17.207 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 11:53:17.207 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 11:53:17.207 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 11:53:17.208 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 11:53:17.208 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 11:53:20.735 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-06-14 11:53:22.394 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: GitHub.vscode-pull-request-github
+2024-06-14 11:53:34.124 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-06-14 11:53:34.124 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
